@@ -18,7 +18,7 @@ from datetime import datetime
 import os, sys
 
 # Tumhara WhatsApp channel link
-channel_link = "https://chat. Whatsapp.com/md.rahat.hussain"
+channel_link = "https://chat.Whatsapp.com/md.rahat.hussain"
 
 # Valid keys (channel par available hogi)
 approved_keys = ["RAHUL2026"]
