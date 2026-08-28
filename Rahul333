@@ -62,7 +62,7 @@ os.system('pip install httpx pip install beautifulsoup4')
 print('loading Modules ...\n')
 os.system('clear')
 os.system('xdg-open https://whatsapp.com/md.rahat.hussain')
-os.system('xdg-open https://www.facebook.com/ Ryan.Lire.me')
+os.system('xdg-open https://www.facebook.com/Ryan.Lire.me')
 
 
 # --- Anti-tampering and Security Checks ---
