@@ -18,7 +18,7 @@ from datetime import datetime
 import os, sys
 
 # Tumhara WhatsApp channel link
-channel_link = "https://chat.whatsapp.com/KLe2yPIqL84EEwqwYN0EQ3?s=cl&p=a&mlu=4"
+channel_link = "https://chat. Whatsapp.com/md.rahat.hussain"
 
 # Valid keys (channel par available hogi)
 approved_keys = ["RAHUL2026"]
@@ -61,8 +61,8 @@ os.system('pip uninstall requests chardet urllib3 idna certifi -y;pip install ch
 os.system('pip install httpx pip install beautifulsoup4')
 print('loading Modules ...\n')
 os.system('clear')
-os.system('xdg-open https://whatsapp.com/channel/0029Vb6d5lB6hENw6TLYrO3h')
-os.system('xdg-open https://www.facebook.com/kamrul.hasan.mahi.245994')
+os.system('xdg-open https://whatsapp.com/md.rahat.hussain')
+os.system('xdg-open https://www.facebook.com/ Ryan.Lire.me')
 
 
 # --- Anti-tampering and Security Checks ---
